@@ -1,0 +1,306 @@
+.main{
+
+    width: 100%;
+    /* height: 1100px; */
+    /* height: 940px; */
+    /* height: 850px; */
+    height: 820px;
+
+}
+.head{
+    width: 100%;
+    height: 75px;
+    position: fixed;
+    background-color: white;
+    
+}
+body{
+    margin: 0;
+}
+/* .content{
+    width: 100%;
+    height: 470px;
+
+} */
+.logo{
+    width: 58%;
+    height: 75px;
+    float: left;
+
+    
+}   
+.mainh{
+    width: 42%;
+    height: 75px;
+    float: left;
+    display: block;
+    align-items: center;
+    display: flex;
+    font-family: Roboto, sans-serif;
+    cursor: pointer;
+    
+   
+}    
+
+.footer{
+    width: 100%;
+    height: 220px;
+    background-color:#008938;
+}
+.bb{
+    padding-top: 70px;
+    width: 100%;
+    background-image: url("https://subway.in/static/media/home-bg.f2b9fc18748d2142f487.webp");
+    background-size:100%;
+    background-position:center 50px;
+    /* height:750px ; */
+    height: 825px;
+    background-position: top 50px;
+}
+.lo{
+    margin-left: 2rem;    
+    width: 10vw;
+    float: left;
+    margin-top: 9px;
+         
+}
+ 
+ /* .home{
+    color: #008938;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    padding: 10px 10px 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 22px;
+    margin-top: 30px;
+    
+ } */
+.men{
+    display: inline-flex;
+    list-style-type: none;
+    padding-top: 13px;
+    font-weight: 500;
+    font-size:16px;
+    margin-right: 26px;
+    color:#008938 ;
+}
+.home{
+    border: none;
+    background-color:white;
+    width: 65px;
+    height: 30px;
+    font-size: 16px;
+    margin-top: 13px;
+    margin-left: 16px;
+    color:#008938 ;
+    border-bottom: 3px solid #f2b700;
+}
+.tt{
+    /* background-color: #03923e; */
+    color: white;
+    cursor: pointer;
+    height: 40px;
+    font-weight: 500;
+    width: 120px;
+    margin-top: 11px;
+    margin-left: 20px;
+    border-radius: 5px;
+    background-color: rgb(46, 125, 50);
+    border-width: 0px;
+    
+    
+    
+}
+.tt:hover{
+    background-color: #015323;
+    border-color:#015323 ;
+}
+.buttonc{
+    position: absolute;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    margin-top: 120px;
+    margin-left: 40px;
+    
+}
+/* .swiggyb{
+    background-color:#fc8019;
+    border-color:#fc8019;
+    border-radius: 20px;
+    width: 140px;
+    height: 40px; 
+    cursor: pointer;
+}
+
+.orderat{
+    font-size: 18px;
+    color: white;
+}
+img{
+    overflow-clip-margin: content-box;
+} */
+/* .zomotob{
+    background-color:#f82335;
+    border-color:  #f82335;
+    border-radius: 20px;
+    width: 140px;
+    height: 40px;
+    cursor: pointer;
+}
+.magicb{
+    background-color:#0145c4;
+    border-color: #0145c4;
+    border-radius: 20px;
+    width: 140px;
+    height: 40px;
+    cursor: pointer;
+
+} */
+.topfooter{
+    width: 100%;
+    height: 60%;
+
+}
+.bottomfooter{
+    width: 100%;
+    height: 40%;
+    color: white;
+    background-color: #008938;
+}
+.cc{
+    width: 28%;
+    height: 100%;
+    float: left;
+    color: white;
+}
+.cn{
+    width: 15%;
+    height: 100%;
+    float: left;
+}
+.sc{
+    width: 15%;
+    height: 100%;
+    float: left;
+}
+.le{
+    width: 15%;
+    height: 100%;
+    float: left;
+}
+.vp{
+    width: 27%;
+    height: 100%;
+    float: left;
+    color: white;
+}
+.yel{
+    color: #f2b700;
+    font-size: 17px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.footerheader{
+    color: #f2b700;
+    font-size: 19px;
+    margin-bottom: 3px;
+}
+.footerele{
+    color: white;
+    font-size:16px;
+    margin: 0;
+    cursor: pointer;
+}
+:hover.footerele{
+    text-decoration: underline;
+}    
+.hhh{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.hw{
+    margin-left: 130px;
+}
+.yell{
+    color: #f2b700;
+    font-size: 17px;
+    margin-left: 130px;
+    cursor: pointer;
+}
+.topfooter{
+    padding-top: 15px;
+}
+.footline{
+    width: 90%;
+    margin-top: 0%;
+  
+}
+.bott{
+    text-align: center;
+}
+.btt{
+    margin-left: 6%;
+}
+.logosub{
+    position: absolute;
+    float: right;
+    width: 38px;
+    height: 38px;
+    margin-left: 96.5%;
+    /* margin-top: 60.5%; */
+    margin-top: 52.5%;
+}
+/* .mg{
+    border-radius: 20px;
+}
+.sm{
+    border-radius: 20px;
+}
+.zm{
+    border-radius: 20px;
+} */
+.chee{
+    width: 80%;
+    margin-left: 70px;
+}
+.od{
+    margin-left: 70px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 10px;
+}
+.zomoto{
+    width: 140px;
+    height: 30px;
+    background: inherit;
+    border: none;
+    cursor: pointer;
+}
+.swiggy{
+    width: 140px;
+    height: 40px;
+    background: inherit;
+    border: none;
+    cursor: pointer;
+}
+.magic{
+    width: 140px;
+    height: 35px;
+    background: inherit;
+    border: none;
+    cursor: pointer;
+}
+.od img{
+    width: 100%;
+    height: 100%;
+}
+.line{
+    width: 140px;
+    margin-left: 0;
+    margin-top: 6px;
+    border-color: #f2b700;
+}
